@@ -1,1 +1,1 @@
-# Predicao-de-precos-de-imoveis-com-regressao-linear
+# Predicao de preços de imoveis com regressao linear
